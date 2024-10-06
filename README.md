@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to My GitHub 👋🏻🚀</h1>
 
-<img align="right" alt="Coding Girl" width="200" src="https://github.com/user-attachments/assets/2650dfaf-fc02-4ebc-8c55-8fba15e9cfb4" />
+<img align="right" alt="Coding Girl" width="400" src="https://github.com/user-attachments/assets/2650dfaf-fc02-4ebc-8c55-8fba15e9cfb4" />
 
 <p align="left">
   I'm <strong>Nour Edres</strong>, a <strong>Software Engineer</strong> specializing in backend development with <strong>Node.js</strong>, <strong>NestJS</strong>, and <strong>Express.js</strong>, as well as building web and mobile applications using <strong>React</strong> and <strong>React Native</strong>. I’m experienced in working with a full ecosystem of technologies, including <strong>PHP</strong>, <strong>JavaScript</strong>, <strong>CSS</strong>, <strong>MySQL</strong>, and integrating systems like <strong>Salesforce</strong>. Proficient in <strong>Java</strong>, <strong>Python</strong>, and <strong>machine learning</strong>, I’ve developed scalable applications and prediction models.

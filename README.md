@@ -8,7 +8,7 @@
     <p>
 I'm <strong>Nour Edres</strong>, a <strong>Software Engineer</strong> specializing in backend development with <strong>Node.js</strong>, <strong>NestJS</strong>, and <strong>Express.js</strong>, as well as building web and mobile applications using <strong>React</strong> and <strong>React Native</strong>. I’m experienced in working with a full ecosystem of technologies, including <strong>PHP</strong>, <strong>JavaScript</strong>, <strong>CSS</strong>, <strong>MySQL</strong>, and integrating systems like **Salesforce**. Proficient in <strong>Java</strong>, <strong>Python</strong>, and <strong>machine learning</strong>, I’ve developed scalable applications and prediction models.
 
-    </p>
+
   </div>
 </div>
 

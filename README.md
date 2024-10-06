@@ -9,7 +9,7 @@
 
 
 
-** 🌟 About Me: **
+<h3> 🌟 About Me: </h3>
 <ul>
   <li>👩🏻‍💻 <strong>Full Stack Developer</strong> at <strong>Moveo</strong>, working with <strong>Node.js</strong>, <strong>React</strong>, <strong>NestJS</strong>, <strong>Express.js</strong>, and <strong>React Native</strong> to build scalable web and mobile applications.</li>
   <li>💡 <strong>Proficient in Java, Python, and AI</strong> — here are a few of my notable projects:

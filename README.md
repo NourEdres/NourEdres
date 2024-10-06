@@ -1,16 +1,10 @@
 # Welcome to My GitHub 👋🏻🚀
 
-<table>
-<tr>
-<td>
-<img src="![pngtree-cute-cartoon-girl-doing-office-work-on-transparent-background-png-image_12375933](https://github.com/user-attachments/assets/2650dfaf-fc02-4ebc-8c55-8fba15e9cfb4)
-" alt="Coding Girl" width="200" align="left">
-</td>
-<td>
+<img src="https://github.com/user-attachments/assets/2650dfaf-fc02-4ebc-8c55-8fba15e9cfb4" alt="Coding Girl" width="200" align="left"/>
+
 I'm **Nour Edres**, a **Software Engineer** with a passion for creating **innovative** and **scalable** solutions. My work spans **full-stack development**, **React Native**, and **Android app development**, as I constantly strive to push boundaries and solve complex challenges. 🎯
-</td>
-</tr>
-</table>
+
+<br clear="left"/>
 
 ## 🌟 About Me:
 - 👩🏻‍💻 **Full Stack Developer** at **Moveo**, working with **Node.js**, **React**, **NestJS**, **Express.js**, and **React Native** to build scalable web and mobile applications.

@@ -1,6 +1,6 @@
 <h1>Welcome to My GitHub 👋🏻🚀</h1>
 
-<div style="display: flex; row: center;">
+<div style="display: flex; align-items: center;">
   <div>
     <img src="https://github.com/user-attachments/assets/2650dfaf-fc02-4ebc-8c55-8fba15e9cfb4" alt="Coding Girl" width="200" style="margin-right: 20px;">
   </div>
@@ -10,6 +10,7 @@
     </p>
   </div>
 </div>
+
 
 <h2>🌟 About Me:</h2>
 <ul>

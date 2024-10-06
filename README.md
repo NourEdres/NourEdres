@@ -1,12 +1,15 @@
 <h1>Welcome to My GitHub 👋🏻🚀</h1>
 
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/2650dfaf-fc02-4ebc-8c55-8fba15e9cfb4" alt="Coding Girl" width="150" style="margin-right: 20px;">
-<p>
-  I'm <strong>Nour Edres</strong>, a <strong>Software Engineer</strong> with a passion for creating <strong>innovative</strong> and <strong>scalable</strong> solutions. My work spans <strong>full-stack development</strong>, <strong>React Native</strong>, and <strong>Android app development</strong>, as I constantly strive to push boundaries and solve complex challenges. 🎯
-</p>
-</p>
-
+<div style="display: flex; align-items: center;">
+  <div>
+    <img src="https://github.com/user-attachments/assets/2650dfaf-fc02-4ebc-8c55-8fba15e9cfb4" alt="Coding Girl" width="200" style="margin-right: 20px;">
+  </div>
+  <div>
+    <p>
+      I'm <strong>Nour Edres</strong>, a <strong>Software Engineer</strong> with a passion for creating <strong>innovative</strong> and <strong>scalable</strong> solutions. My work spans <strong>full-stack development</strong>, <strong>React Native</strong>, and <strong>Android app development</strong>, as I constantly strive to push boundaries and solve complex challenges. 🎯
+    </p>
+  </div>
+</div>
 
 <h2>🌟 About Me:</h2>
 <ul>
